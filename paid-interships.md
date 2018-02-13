@@ -43,4 +43,35 @@
     <td>(June–September) ,December–March</td>
     <td><a href="http://www.worldbank.org/en/about/careers/programs-and-internships/internship">http://www.worldbank.org/en/about/careers/programs-and-internships/internship</a></td>
   </tr>
+  <tr>
+    <th>Digital Product School</th>
+    <th>UnternehmerTUM</th>
+    <th>All year, for different 3-month-long batches</th>
+    <th>Around a month before the specific batch start</th>
+    <th>Any</th>
+    <th>
+      <ol>
+        <li>
+          Motivation to learn about product development from the initial idea till the implementation
+        </li>
+        <li>
+          Will to work in an interdisciplinary team
+        </li>
+        <li>
+          Product Managers: Some kind of managerial skills would be useful
+        </li>
+        <li>
+          Software Engineers: Knowledge in computer science and basic coding skills are appreciated
+        </li>
+        <li>
+          Artificial Intelligence Engineers: Background and experience with AI would be useful
+        </li>
+        <li>
+          Interaction Designers: Experience with UI/UX design would be useful
+        </li>
+      </ol>
+    </th>
+    <th></th>
+    <th>https://www.digitalproductschool.io/</th>
+  </tr>
 </table> 
