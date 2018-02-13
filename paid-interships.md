@@ -52,22 +52,10 @@
     <th>
       <ol>
         <li>
-          Motivation to learn about product development from the initial idea till the implementation
+          Motivation to learn and work in an interdisciplinary team
         </li>
+          Basic skills or experience on the specific role you apply for will be appreciated
         <li>
-          Will to work in an interdisciplinary team
-        </li>
-        <li>
-          Product Managers: Some kind of managerial skills would be useful
-        </li>
-        <li>
-          Software Engineers: Knowledge in computer science and basic coding skills are appreciated
-        </li>
-        <li>
-          Artificial Intelligence Engineers: Background and experience with AI would be useful
-        </li>
-        <li>
-          Interaction Designers: Experience with UI/UX design would be useful
         </li>
       </ol>
     </th>
