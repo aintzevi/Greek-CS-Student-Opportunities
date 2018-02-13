@@ -54,8 +54,8 @@
         <li>
           Motivation to learn and work in an interdisciplinary team
         </li>
-          Basic skills or experience on the specific role you apply for will be appreciated
         <li>
+          Basic skills or experience on the specific role you apply for will be appreciated
         </li>
       </ol>
     </th>
