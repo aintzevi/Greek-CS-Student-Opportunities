@@ -59,7 +59,7 @@
         </li>
       </ol>
     </th>
-    <th></th>
+    <th>750eur/month</th>
     <th>https://www.digitalproductschool.io/</th>
   </tr>
 </table> 
