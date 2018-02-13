@@ -43,23 +43,4 @@
     <td>(June–September) ,December–March</td>
     <td><a href="http://www.worldbank.org/en/about/careers/programs-and-internships/internship">http://www.worldbank.org/en/about/careers/programs-and-internships/internship</a></td>
   </tr>
-  <tr>
-    <th>Digital Product School</th>
-    <th>UnternehmerTUM</th>
-    <th>All year, for different 3-month-long batches</th>
-    <th>Around a month before the specific batch start</th>
-    <th>Any</th>
-    <th>
-      <ol>
-        <li>
-          Motivation to learn and work in an interdisciplinary team
-        </li>
-        <li>
-          Basic skills or experience on the specific role you apply for will be appreciated
-        </li>
-      </ol>
-    </th>
-    <th>750eur/month</th>
-    <th>https://www.digitalproductschool.io/</th>
-  </tr>
 </table> 
